@@ -30,27 +30,30 @@ p {
   margin: 10px;
   text-align: center;
 }
+.title {
+  margin-top: 70px;
+}
 .navigation-links {
   display: flex;
   justify-content: center;
   margin-top: 40px;
 }
-.contact-link {
+.primary-link {
   color: white;
   background: var(--primary-color);
   border: 1px solid var(--primary-color);
   border-radius: 5px;
   box-shadow: var(--box-shadow);
   margin: 20px;
-  padding: 20px 16px;
+  padding: 20px 15px;
   text-decoration: none;
 }
-.about-link {
+.secondary-link {
   color: var(--primary-color);
   border: 1px solid var(--primary-color);
   border-radius: 5px;
   margin: 20px;
-  padding: 20px 16px;
+  padding: 20px 15px;
   text-decoration: none;
 }
 

@@ -39,6 +39,7 @@ p {
   margin: 20px;
   padding: 20px 15px;
   text-decoration: none;
+  margin-left: -3px;
 }
 .secondary-link {
   color: var(--primary-color);
